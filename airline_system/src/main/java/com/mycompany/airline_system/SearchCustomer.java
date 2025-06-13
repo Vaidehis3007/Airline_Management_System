@@ -10,12 +10,12 @@ import static java.awt.Color.pink;
  *
  * @author vaidehisahu
  */
-public class AddCustomer extends javax.swing.JInternalFrame {
+public class SearchCustomer extends javax.swing.JInternalFrame {
 
     /**
      * Creates new form AddCustomer
      */
-    public AddCustomer() {
+    public SearchCustomer() {
         initComponents();
         this.getContentPane().setBackground(pink);
     }
